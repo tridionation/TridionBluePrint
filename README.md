@@ -13,9 +13,14 @@ This automatically producesTridion Blue Prints as Visio Diagrams, creating indiv
 
 ## Step 1
 Export the Tridion Blueprint data to json so that we can work on the data without a connection to the live CMS.
+[**SaveBluePrintDataToFile.ps1**](SaveBluePrintDataToFile.ps1)
+[**SaveTridionBluePrintDataAsJson.mp4**](SaveTridionBluePrintDataAsJson.mp4)
+
 
 ## Step 2 
 Process the captured data into Microsoft Excel Tables and Worksheets
+[**ExportBlueprintAsExcelWorksheets.ps1**](ExportBlueprintAsExcelWorksheets.ps1)
+
 
 ## Step 3
 Use Visio Data Visualization templates to connect to the Excel data to automatically draw the diagrams
