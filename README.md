@@ -1,8 +1,7 @@
-# ![SDL](/Images/sdl_logo.png) TridionBluePrint
+# ![SDL](/Images/sdl_logo.png) Tridion BluePrint Data Visualisation in Visio Professional 2016
 
 
-https://github.com/tridionation/TridionBluePrint/blob/master/Images/sdl_logo.png
-Tridion BluePrint Data Visualisation in Visio Professional 2016
+
 
 I have been working on a concept for a [**TDS 2018**](http://2018.tridiondevelopersummit.com/register-tds-2018/)  presentation which is about Tridion  Data Visualization.
 
