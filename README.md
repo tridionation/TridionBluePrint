@@ -25,12 +25,13 @@ Process the captured data into Microsoft Excel Tables and Worksheets
 [**ExportBlueprintAsExcelWorksheets2.ps1**](ExportBlueprintAsExcelWorksheets2.ps1)
 
 
-## Step 3
+## Step 3 
 Use Visio Data Visualization templates to connect to the Excel data to automatically draw the diagrams
 
-## Step 4
+## Step 4 
 Collect Item Type Data for each Publication 
 [**GetCountItemTypesbyParentPublication.ps1**](GetCountItemTypesbyParentPublication.ps1)
 
-## Step 5 Add external data to excel diagram
+## Step 5 
+Add external data to excel diagram
 
