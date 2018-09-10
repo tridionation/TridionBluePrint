@@ -7,8 +7,8 @@ I have been working on a concept for a [**TDS 2018**](http://2018.tridiondevelop
 
 There are a lot of places where Tridion structure and configuration is difficult to surface that can be resolved by integrating with MS Office.
 
-The presentation will show automated techniques using PowerShell to visualise Tridion information in MS Excel and MS Visio.
-This automatically producesTridion Blue Prints as Visio Diagrams, creating individual blueprint diagrams targeting 
+The presentation shows automated techniques using PowerShell to visualise Tridion information in MS Excel and MS Visio.
+This automatically produces Tridion Blue Prints as Visio Diagrams, creating individual blueprint diagrams targeting 
 + the whole organisation
 + individual Business Units 
 + individual Publications
@@ -22,8 +22,15 @@ Export the Tridion Blueprint data to json so that we can work on the data withou
 
 ## Step 2 
 Process the captured data into Microsoft Excel Tables and Worksheets
-[**ExportBlueprintAsExcelWorksheets.ps1**](ExportBlueprintAsExcelWorksheets.ps1)
+[**ExportBlueprintAsExcelWorksheets2.ps1**](ExportBlueprintAsExcelWorksheets2.ps1)
 
 
 ## Step 3
 Use Visio Data Visualization templates to connect to the Excel data to automatically draw the diagrams
+
+## Step 4
+Collect Item Type Data for each Publication 
+[**GetCountItemTypesbyParentPublication.ps1**](GetCountItemTypesbyParentPublication.ps1)
+
+## Step 5 Add external data to excel diagram
+
